@@ -1,7 +1,5 @@
-<a href="https://github.com/kenchou2006/github-stats">
-<img src="https://github.com/kenchou2006/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/kenchou2006/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+![](https://raw.githubusercontent.com/kenchou2006/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kenchou2006/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ### Life is short I use _Python_
 
