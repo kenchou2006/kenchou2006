@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     maxWidth: 4000,
     nav: [
-      { text: 'Links' , link:'/links'},
+      { text: 'Links' , link:'/Links'},
       { text: 'Gravatar', link: 'https://gravatar.com/kenchou2006' },
     ],
     sidebar: [],
