@@ -1,7 +1,10 @@
-![](https://raw.githubusercontent.com/kenchou2006/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kenchou2006/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<div class="svg-container">
+  <img src="https://raw.githubusercontent.com/kenchou2006/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" />
+  <img src="https://raw.githubusercontent.com/kenchou2006/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
+</div>
 
-### Life is short I use _Python_
+---
+### :sparkles: Life is short I use _*Python*_
 
 ```bash
 pip install helloworld-printer
@@ -11,3 +14,4 @@ pip install helloworld-printer
 import helloworld
 helloworld("print")
 ```
+---
