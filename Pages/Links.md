@@ -20,9 +20,10 @@
 ---
 
 ### Social
-- [Facebook](https://www.facebook.com/kenchou2006/)
+- [Facebook](https://www.facebook.com/kenchou2006)
 - [Instagram](https://instagram.com/kenchou2006)
 - [Threads](https://www.threads.net/kenchou2006)
+- [Retro](https://retro.app/@kenchou2006)
 - [ X ](https://twitter.com/kenchou95)
 - [Twitch](https://www.twitch.tv/kenchou2006)
 - [Mastodon](https://mastodon.social/@kenchou2006)
