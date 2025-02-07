@@ -3,8 +3,8 @@
     "vitepress": "^1.6.3"
   },
   "scripts": {
-    "dev": "vitepress dev .",
+    "dev": "vitepress dev . --port ${PORT:-3000}",
     "build": "vitepress build .",
-    "preview": "vitepress preview ."
+    "preview": "vitepress preview . --port ${PORT:-3000}"
   }
 }
